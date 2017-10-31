@@ -3,10 +3,6 @@
 /**
  * Base-view react-component, which is the template for all pages.
  *
- * <i>Copyright (c) 2016 AcceleTrial - https://acceletrial.com</i><br>
- * Proprietary License
- *
- *
  * @module modules/__view-page-template.jsx
  * @class PageTemplate
  * @since 2.0.0

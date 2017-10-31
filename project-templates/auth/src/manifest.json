@@ -50,7 +50,7 @@
         },
         "not-exposed": {
             "enabled": true,
-            "onlySsl": false,
+            "onlySsl": true,
             "ttl-sec": 31536000
         },
         "props": {
@@ -93,7 +93,7 @@
     "babel-polyfill": true,
     "service-workers": {
         "enabled": true,
-        "cacheAuthenticatedCode": true
+        "cacheAuthenticatedCode": false
     },
     "inline-pagecss": true,
     "page-description": "my awesome page",
