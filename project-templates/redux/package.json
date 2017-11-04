@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "hapi": "^16.4.0",
-    "itsa-react-server": "^16.2.12",
+    "itsa-react-server": "^16.2.16",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
