@@ -1,6 +1,6 @@
 {
   "name": "itsa-cli",
-  "version": "16.2.19",
+  "version": "16.2.20",
   "description": "Command line interface for itsa-react-server",
   "bin": {
     "itsa": "./bin/itsa.js"
